@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/ServicesSoap/ServicioOperaciones?WSDL" uri="src/conf/xml-resources/web-service-references/ServicioOperaciones/wsdl/localhost_8080/ServicesSoap/ServicioOperaciones.wsdl"/>
+    <system systemId="http://localhost:8080/ServicesSoap/ServicioOperaciones?xsd=1" uri="src/conf/xml-resources/web-service-references/ServicioOperaciones/wsdl/localhost_8080/ServicesSoap/ServicioOperaciones.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/ServicesSoap/Primo?WSDL" uri="src/conf/xml-resources/web-service-references/Primo/wsdl/localhost_8080/ServicesSoap/Primo.wsdl"/>
+    <system systemId="http://localhost:8080/ServicesSoap/Primo?xsd=1" uri="src/conf/xml-resources/web-service-references/Primo/wsdl/localhost_8080/ServicesSoap/Primo.xsd_1.xsd"/>
+</catalog>
